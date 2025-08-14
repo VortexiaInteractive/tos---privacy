@@ -1,5 +1,5 @@
 Privacy Policy for Future Football
-Last Updated: December 2024
+Last Updated: 13 August 2025
 
 1. Introduction
 This Privacy Policy describes how Vortexia Interactive ("we," "our," or "us"), a company registered in England, collects, uses, and protects your personal data when you use Future Football (the "Game").
