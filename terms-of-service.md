@@ -1,5 +1,5 @@
 Terms of Service for Future Football
-Last Updated: December 2024
+Last Updated: 13 August 2025
 
 1. Acceptance of Terms
 By downloading, installing, or using Future Football ("the Game"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Game.
