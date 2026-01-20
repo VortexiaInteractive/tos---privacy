@@ -1,147 +1,168 @@
 Terms of Service for Future Football
-Last Updated: 13 August 2025
+Last Updated: 18 January 2026
 
-1. Acceptance of Terms
-By downloading, installing, or using Future Football ("the Game"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Game.
+Acceptance of Terms
+By downloading, installing, or using Future Football (“the Game”), you agree to be bound by these Terms of Service (“Terms”).
+If you do not agree to these Terms, you must not access or use the Game.
 
-2. Unity Player Accounts
-This Game uses Unity Player Accounts for authentication. Your use of Unity Player Accounts is subject to Unity's Terms of Service, available at: Unity Terms of Service.
+Account Registration and Authentication
+To access online or multiplayer features, you may be required to create an in-game account.
 
-3. License to Use the Game
-We grant you a limited, non-exclusive, non-transferable, revocable license to use the Game for personal, non-commercial purposes, subject to these Terms.
+When registering an account, we collect:
 
-4. Age Restrictions
-The Game is not intended for children under 13 years of age.
+An email address
 
-If you are between 13 and 16 years old, you must have parental consent to use the Game where required by law.
+A password created specifically for the Game
 
-By using the Game, you confirm that you meet the age requirements.
+We do not request, access, or store your email account password.
 
-We reserve the right to terminate accounts that are found to be in violation of this age policy.
+Account credentials are securely stored and managed using PlayFab services. Passwords are encrypted and handled in accordance with industry security standards.
 
-5. User Conduct
-You agree not to:
-
-Use cheats, exploits, automation software, bots, hacks, mods, or any unauthorized third-party software
-
-Attempt to reverse engineer, decompile, disassemble, or modify the Game
-
-Use the Game for any illegal, harmful, or unauthorized purpose
-
-Violate Unity's Terms of Service
-
-Engage in harassment, abuse, or discrimination against other users
-
-Distribute malware or engage in phishing activities
-
-6. In-App Purchases and Virtual Items
-The Game may offer in-app purchases, including virtual currency, items, or subscriptions.
-
-Purchases are processed through Apple App Store or Google Play and are subject to their terms and payment processing.
-
-Refunds are handled in accordance with the relevant store’s policies and applicable law.
-
-Virtual currency and items have no real-world monetary value and cannot be exchanged for real money.
-
-7. Privacy and Data Protection
-Your privacy is important to us. Please review our Privacy Policy, which explains how we collect, use, and protect your information in compliance with UK GDPR and applicable data protection laws.
-
-8. Account Security
 You are responsible for:
 
-Maintaining the security and confidentiality of your Unity Player Account credentials
+Maintaining the confidentiality of your login credentials
 
 All activities that occur under your account
 
-Reporting any unauthorized use or security breaches immediately
+Ensuring your account information is accurate and up to date
 
-Ensuring your account information is accurate and up-to-date
+You must notify us immediately of any unauthorized use or security breach.
 
-9. Intellectual Property
-The Game and all related content, including but not limited to graphics, sounds, music, text, and code, are owned by Vortexia Interactive and protected by intellectual property laws. All rights reserved.
+License to Use the Game
+We grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Game for personal, non-commercial purposes, subject to these Terms.
 
-10. Consumer Rights (UK/EU)
-For UK/EU consumers: Nothing in these Terms affects your statutory consumer rights under UK or EU consumer protection laws, including your right to receive goods/services that are as described, fit for purpose, and of satisfactory quality.
+This license may be revoked at any time if you violate these Terms.
 
-Right of Withdrawal: If you are an EU consumer, you have the right to withdraw from this contract within 14 days without giving any reason, subject to applicable exceptions for digital content.
+Age Restrictions
+The Game is not intended for children under 13 years of age.
 
-11. Disclaimer of Warranties
-Subject to your statutory rights, the Game is provided "as is" without warranties of any kind, whether express or implied.
+If you are between 13 and 16 years old, you must have parental or guardian consent to use the Game where required by law.
 
-12. Limitation of Liability
-For Business Users: To the maximum extent permitted by law, we exclude all liability for indirect, incidental, special, or consequential damages.
+By using the Game, you confirm that you meet the applicable age requirements.
+We reserve the right to suspend or terminate accounts found to be in violation of this policy.
 
-For Consumers: Nothing in these Terms excludes or limits our liability for:
+User Conduct
+You agree that you will not:
 
-Death or personal injury caused by our negligence
+Use cheats, exploits, automation software, bots, hacks, mods, or unauthorized third-party software
+
+Attempt to reverse engineer, decompile, disassemble, or modify the Game
+
+Use the Game for any unlawful, harmful, or unauthorized purpose
+
+Harass, abuse, threaten, or discriminate against other users
+
+Distribute malware, engage in phishing, or attempt to compromise security
+
+Interfere with or disrupt the Game or its services
+
+In-App Purchases and Virtual Items
+The Game may offer in-app purchases, including virtual currency, items, or subscriptions.
+
+Purchases are processed through the Apple App Store or Google Play Store
+
+Payments are subject to the respective platform’s terms and payment processing
+
+We do not handle or store payment card details
+
+Virtual currency and virtual items:
+
+Have no real-world monetary value
+
+Cannot be exchanged for real money
+
+Are non-transferable unless explicitly stated
+
+Refunds are handled in accordance with the applicable app store’s refund policies and applicable law.
+
+Advertising
+The Game may display advertisements, including rewarded advertisements that grant in-game benefits when voluntarily viewed.
+
+Advertisements are provided by third-party advertising partners and may use device or contextual information in accordance with their own privacy policies.
+
+Privacy and Data Protection
+Your privacy is important to us.
+Please review our Privacy Policy, which explains how we collect, use, and protect your personal data in compliance with UK GDPR, EU GDPR, and other applicable data protection laws.
+
+Intellectual Property
+The Game and all related content, including but not limited to graphics, sounds, music, text, and code, are owned by Vortexia Interactive or its licensors and are protected by intellectual property laws.
+
+All rights not expressly granted are reserved.
+
+Consumer Rights (UK / EU)
+For UK and EU consumers, nothing in these Terms affects your statutory consumer rights under applicable consumer protection laws.
+
+If you are an EU consumer, you may have a 14-day right of withdrawal for digital content, subject to applicable legal exceptions once performance has begun.
+
+Disclaimer of Warranties
+Subject to your statutory rights, the Game is provided “as is” and “as available”, without warranties of any kind, whether express or implied.
+
+Limitation of Liability
+Nothing in these Terms limits or excludes liability for:
+
+Death or personal injury caused by negligence
 
 Fraud or fraudulent misrepresentation
 
-Any other liability that cannot be excluded by UK or EU law
+Any liability that cannot be excluded under applicable law
 
-13. Compliance with Unity Terms
-You acknowledge that:
+To the maximum extent permitted by law, we are not liable for indirect, incidental, or consequential damages arising from use of the Game.
 
-Unity Terms of Service apply to your use of Unity Player Accounts
+Third-Party Services
+The Game uses third-party services, including PlayFab, Unity Technologies, advertising providers, and platform services, to operate online features, analytics, and advertising.
 
-We maintain compliance with Unity's requirements
+Your use of these services may be subject to their respective terms and privacy policies.
 
-Unity may modify their terms, which may affect the Game
-
-14. Platform Terms (Apple & Google)
+Platform Terms (Apple & Google)
 The Game is provided independently by Vortexia Interactive and is not affiliated with Apple Inc. or Google LLC.
 
-Apple and Google are not responsible for the Game’s content, maintenance, or support.
+Apple and Google:
 
-You acknowledge that Apple and Google have no obligation to provide maintenance or support services for the Game.
+Are not responsible for the Game’s content, maintenance, or support
 
-In the event of any failure of the Game to conform to any applicable warranty, you may notify Apple or Google, and they may refund the purchase price (if applicable), but Apple/Google have no other warranty obligations.
+Have no warranty obligations beyond potential refunds under their policies
 
-15. Termination
+Termination
 We may suspend or terminate your access to the Game:
 
-Immediately for material breach of these Terms
+Immediately for material breaches of these Terms
 
-With reasonable notice for non-material breaches that remain uncured
+With reasonable notice for non-material breaches
 
-As required to comply with legal obligations
+To comply with legal obligations
 
-Upon termination, your license to use the Game ceases immediately.
+Upon termination, your license to use the Game ends immediately.
 
-16. Dispute Resolution
-UK/EU consumers have the right to:
+Dispute Resolution
+UK and EU consumers may:
 
-Refer disputes to the relevant Alternative Dispute Resolution (ADR) scheme
+Use applicable Alternative Dispute Resolution (ADR) mechanisms
 
-Access the Online Dispute Resolution platform: Site relocation
+Access the EU Online Dispute Resolution platform
 
-Pursue claims through local courts
+Pursue claims through their local courts
 
-17. Changes to Terms
-We may modify these Terms with reasonable notice. For material changes:
+Changes to These Terms
+We may update these Terms from time to time.
 
-We will provide at least 30 days' notice
+For material changes:
 
-Continued use constitutes acceptance
+We will provide reasonable notice (at least 30 days where required)
 
-You may terminate your account if you disagree with changes
+Continued use of the Game constitutes acceptance
 
-18. Governing Language
-If these Terms are translated into other languages, the English version will prevail in the event of any conflict.
+You may stop using the Game if you do not agree
 
-19. Contact Information
-For questions about these Terms:
+Governing Law and Jurisdiction
+These Terms are governed by the laws of England and Wales.
 
-_Email: _VortexiaInteractive@proton.me
+Nothing in this section limits your statutory consumer rights to bring claims in your local jurisdiction.
 
-Address: Vortexia Interactive, Newcastle, England
-
-For Unity Player Account issues:
-
-_Email: _unity-player-login-privacy@unity3d.com
-
-20. Governing Law and Jurisdiction
-These Terms are governed by English law. Any disputes will be subject to the exclusive jurisdiction of the English courts, without prejudice to your statutory consumer rights.
-
-21. Severability
+Severability
 If any provision of these Terms is found unenforceable, it will be severed and the remaining provisions will remain in full force and effect.
+
+Contact Information
+Vortexia Interactive
+Newcastle, England
+
+_📧 Email: _VortexiaInteractive@proton.me
